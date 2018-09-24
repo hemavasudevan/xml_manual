@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="new.css"?>
+<!DOCTYPE employee SYSTEM "employee.dtd">
+<employee>
+<heading>LIST OF STUDENTS</heading>
+<br />
+<br><text1>hema</text1></br>
+<br><text2>nandhini</text2></br>
+<text3>subhi</text3>
+<text4>venmadi</text4>
+<heading>SELECTED CANDIDATES</heading>
+<text1>hema</text1>
+<text2>nandhini</text2>
+</employee>
